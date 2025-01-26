@@ -1,0 +1,6 @@
+numpy
+tqdm
+sklearn
+opencv-python
+prettytable
+torchsummary
